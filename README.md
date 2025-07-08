@@ -9,7 +9,7 @@
 1. Clone: `git clone <repo_url>`
 2. Create virtual environment: `python -m venv venv && source venv/bin/activate`
 3. Install: `pip install -r requirements.txt`
-4. Place `sample_rfi1.pdf` and `project_docs/*.pdf` in project directory (use `generate_pdfs.py` to create).
+4. Place `sample_rfi1.pdf`in project directory.
 5. Ensure ~8GB RAM and ~2GB disk space for `facebook/bart-large` model.
 
 ## Usage
